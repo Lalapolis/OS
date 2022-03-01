@@ -1,0 +1,3 @@
+/home/andrey/CLionProjects/OS/lab2_LinuxLib/TestLibLinux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/CLionProjects/OS/lab2_LinuxLib/TestLibLinux/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrey/CLionProjects/OS/lab2_LinuxLib/TestLibLinux/cmake-build-debug/CMakeFiles/TestLibLinux.dir

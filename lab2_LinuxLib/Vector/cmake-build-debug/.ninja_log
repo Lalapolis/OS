@@ -1,0 +1,4 @@
+# ninja log v5
+1	95	1646234236762572065	libVector.so	a813bd17743c009a
+1	368	1646234096211291074	CMakeFiles/Vector.dir/Vector.cpp.o	3d8eea3d7b2f044a
+0	45	1646234268604960739	libVector.so	2e5b5d62aee22a7c
